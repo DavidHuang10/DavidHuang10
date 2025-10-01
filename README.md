@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=David%20%40%20Duke&animation=fadeIn&type=waving&color=gradient&height=120" alt="David @ Duke banner" />
+  <img src="https://capsule-render.vercel.app/api?text=David%20%40%20Duke&animation=fadeIn&type=waving&color=gradient&height=120" alt="David Huang" />
 </p>
 
 # Hi, I'm David 👋
