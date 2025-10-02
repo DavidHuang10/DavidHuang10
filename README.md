@@ -4,11 +4,9 @@
 
 # Hi, I'm David
 
-Interested in and building scalable AI systems  
-Always learning and hacking on projects
+# Currently Working on: Improving [Call-cat.com](https://call-cat.com)
 
-Currently Working on: Improving [Call-cat.com](https://call-cat.com)
-Currently Working on: Personal Portfolio Website
+# Currently Working on: Personal Portfolio Website
 
 ---
 ## Technical Skills
