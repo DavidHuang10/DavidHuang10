@@ -7,6 +7,9 @@
 Interested in and building scalable AI systems  
 Always learning and hacking on projects
 
+Currently Working on: Improving [Call-cat.com](https://call-cat.com)
+Currently Working on: Personal Portfolio Website
+
 ---
 ## Technical Skills
 
@@ -46,18 +49,6 @@ Always learning and hacking on projects
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="40" height="40"/>
 </p>
 
-
----
-
-## 📂 Featured Projects
-
-- **[Call-cat.com](#)**  
-  Multilingual AI phone-call platform (AWS, Spring Boot, React, LangChain)  
-  → Automated summaries, invites, S3 call recordings  
-
-- **[AI Project Management System](#)**  
-  Recommender for project bootstrapping (PyTorch, BERT, FAISS, XGBoost)  
-  → Adopted by 250+ developers, cut latency by 66%  
 
 ---
 
