@@ -27,7 +27,7 @@ I am a **Computer Science and Math** student at Duke University, passionate abou
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:david.huang@duke.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="mailto:polarpenguins24@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
   <a href="https://linkedin.com/in/davidhuang10"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
 </div>
 
