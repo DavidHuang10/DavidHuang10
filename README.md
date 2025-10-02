@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=David's%20GitHub%e&animation=fadeIn&type=waving&color=gradient&height=120" alt="David @ Duke banner" />
 </p>
 
-# Currently Working on: Improving [Call-cat.com](https://call-cat.com) and my Personal Portfolio Website
+### Currently Working on: Improving [Call-cat.com](https://call-cat.com) and my Personal Portfolio Website
 
 ## Technical Skills
 
