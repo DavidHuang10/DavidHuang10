@@ -8,7 +8,7 @@
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-I am a **Computer Science** student at Duke University, passionate about building scalable systems and exploring the intersection of software engineering and artificial intelligence. Currently working on improving [Call-cat.com](https://call-cat.com) and developing my personal portfolio website.
+I am a **Computer Science and Math** student at Duke University, passionate about building scalable systems and exploring the intersection of software engineering and artificial intelligence. Currently working on improving [Call-cat.com](https://call-cat.com) and developing my personal portfolio website.
 
 - Currently learning and working with cloud infrastructure, distributed systems, and AI/ML applications
 - Building projects that solve real-world problems
