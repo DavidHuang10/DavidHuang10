@@ -68,58 +68,6 @@ I am a **Computer Science** student at Duke University, passionate about buildin
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 
-<br>
-<br>
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***Featured Project***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Call-cat.com</h3>
-      <div align="center">
-        <a href="https://call-cat.com" target="_blank">
-          <img src="https://via.placeholder.com/400x300/1a1a1a/00d9ff?text=Call-cat.com" width="400" alt="Call-cat">
-        </a>
-        <p>
-          <a href="https://call-cat.com" target="_blank">
-            <img src="https://img.shields.io/badge/WEBSITE-ff9?style=for-the-badge&logo=google-chrome&logoColor=black&color=blue">
-          </a>
-        </p>
-        <p>Currently improving and scaling this application with modern cloud infrastructure and enhanced user experience.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<!-- Github Stats -->
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DavidHuang10&theme=nightowl&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidHuang10&theme=nightowl&hide_border=false" alt="GitHub streak" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=DavidHuang10&theme=nightowl&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
-</p>
-
-<br>
-
----
-
-<div align="center">
-    <i>"A problem well-stated is half solved." - Charles Kettering</i>
-</div>
 
 <br>
 
