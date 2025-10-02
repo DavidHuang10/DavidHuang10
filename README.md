@@ -2,14 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?text=David%20%40%20Duke&animation=fadeIn&type=waving&color=gradient&height=120" alt="David @ Duke banner" />
 </p>
 
-# Hi, I'm David 👋
+# Hi, I'm David
 
-🎓 CS + Math @ Duke University | GPA 4.0  
-💻 Interested in algorithms, systems, AI/ML, and building scalable tools  
-🚀 Always learning and hacking on projects
+Interested in and building scalable AI systems  
+Always learning and hacking on projects
 
 ---
-## 🔧 Technical Skills
+## Technical Skills
 
 ### Languages
 <p align="left">
@@ -27,7 +26,7 @@
 ### Infrastructure & Tools
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
