@@ -53,4 +53,4 @@
 
 ---
 
-⭐️ *“Code is craft — always iterating, always improving.”*
+⭐️ *“A problem well-stated is half solved.” -- Charles Kettering*
