@@ -1,12 +1,14 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1><b>Hi there, I'm David</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=David's%20GitHub&animation=fadeIn&type=waving&color=gradient&height=120" alt="David's GitHub banner" />
+</p>
+
+<h1 align="center"><b>Hi there, I'm David</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <br>
 
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
-
-<img align="right" width=200px alt="Coding" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
 I am a **Computer Science** student at Duke University, passionate about building scalable systems and exploring the intersection of software engineering and artificial intelligence. Currently working on improving [Call-cat.com](https://call-cat.com) and developing my personal portfolio website.
 
@@ -21,7 +23,7 @@ I am a **Computer Science** student at Duke University, passionate about buildin
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=DavidHuang10&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>     
 
@@ -52,8 +54,6 @@ I am a **Computer Science** student at Duke University, passionate about buildin
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-
-<img align="right" width=280px alt="Coding" src="https://media1.tenor.com/m/XwmLgqDr19YAAAAC/colin-ritman-bandersnatch.gif"/>
 
 ###### Frameworks & Tools:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
