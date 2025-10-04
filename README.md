@@ -67,7 +67,7 @@ I am a **Computer Science and Math** student at Duke University, passionate abou
 <br>
 
 <!-- Visitor Counter -->
-***Lifetime Visitor Counter***
+<center>***Lifetime Visitor Counter***</center>
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://media.tenor.com/sNIbebDwG_EAAAAM/dedsec.gif" width="30">
     <img alt="visitors counter" src="https://views-counter.vercel.app/badge?pageId=DavidHuang10%2FViews-Counter">
