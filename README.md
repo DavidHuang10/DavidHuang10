@@ -6,14 +6,12 @@
 
 <br>
 
-<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
+***About me***
 
 I am a **Computer Science and Math** student at Duke University, passionate about building scalable systems and exploring the intersection of software engineering and artificial intelligence. Currently working on improving [Call-cat.com](https://call-cat.com) and developing my personal portfolio website.
 
 - Currently learning and working with cloud infrastructure, distributed systems, and AI/ML applications
 - Building projects that solve real-world problems
-- Open to collaboration on interesting technical challenges
-- Outside of coding, I enjoy exploring new technologies and staying current with industry trends
 - 📫 Reach out to me at: <a href="mailto:david.huang@duke.edu">david.huang@duke.edu</a>
 
 <br>
