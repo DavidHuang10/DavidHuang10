@@ -7,11 +7,9 @@
 <br>
 
 I am a **Computer Science and Math** student at Duke University.
-Interested in AI and Interpretable ML research. I am working on creating fair model distributions at the Interpretable ML Lab at Duke, and creating a rocketry telemetry data station!
 
-- Currently learning and working with cloud infrastructure, distributed systems, and AI/ML applications
-- Building projects that solve real-world problems
-- 📫 Reach out to me at: <a href="mailto:david.huang@duke.edu">david.huang@duke.edu</a>
+
+Interested in AI and Interpretable ML research. I am working on creating fair model distributions at the Interpretable ML Lab at Duke, and creating a rocketry telemetry data station!
 
 <br>
 
